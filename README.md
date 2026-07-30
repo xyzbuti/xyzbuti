@@ -9,7 +9,8 @@
 imię:           Buti
 rola:           Full-stack Developer
 specjalizacja:  Boty Discord/Telegram, panele webowe, automatyzacje
-stack:          HTML, CSS, JS, Python, React, Java
+stack:          HTML, CSS, JS, Python, React, Node.js
+design:         Photoshop, Illustrator
 portfolio:      https://buti.dev
 motto:          "Buduję rzeczy, które działają."
 ```
@@ -29,38 +30,11 @@ motto:          "Buduję rzeczy, które działają."
   <img width="14"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/>
   <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
-  <img width="14"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs"/>
   <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma"/>
-</p>
-
----
-
-### 📊 Statystyki
-
-<p align="center">
-  <a href="https://github.com/xyzbuti">
-    <img src="https://github-readme-stats.vercel.app/api?username=xyzbuti&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="160" alt="stats"/>
-  </a>
-  <a href="https://github.com/xyzbuti">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyzbuti&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/xyzbuti">
-    <img src="https://streak-stats.demolab.com/?user=xyzbuti&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak"/>
-  </a>
-</p>
-
----
-
-### 🏆 Osiągnięcia
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xyzbuti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="trophies"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" height="40" alt="illustrator"/>
 </p>
 
 ---
@@ -69,7 +43,10 @@ motto:          "Buduję rzeczy, które działają."
 
 <p align="center">
   <a href="https://buti.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=buti.dev&logo=appveyor&label=&color=8B5CF6&logoColor=white&labelColor=&style=for-the-badge&logo=appveyor" alt="portfolio"/>
+    <img src="https://img.shields.io/static/v1?message=buti.dev&logo=appveyor&label=&color=8B5CF6&logoColor=white&labelColor=&style=for-the-badge" alt="portfolio"/>
+  </a>
+  <a href="https://discord.com/users/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=buti.&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" alt="discord"/>
   </a>
   <a href="https://github.com/xyzbuti" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" alt="github"/>
@@ -78,6 +55,9 @@ motto:          "Buduję rzeczy, które działają."
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xyzbuti&style=for-the-badge&color=8B5CF6" alt="profile views"/>
-</p>
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xyzbuti/xyzbuti/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/xyzbuti/xyzbuti/output/github-contribution-grid-snake.svg">
+</picture>

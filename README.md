@@ -1,14 +1,14 @@
 ### 👨‍💻 O mnie
 
-```yaml
-imię:           Buti
-rola:           Full-stack Developer
-specjalizacja:  Boty Discord/Telegram, panele webowe, automatyzacje
-stack:          HTML, CSS, JS, Python, React, Node.js
-design:         Photoshop, Illustrator
-portfolio:      https://buti.dev
-motto:          "Buduję rzeczy, które działają."
-```
+# Buti – Developer botów i narzędzi webowych 🚀
+
+Cześć! Jestem freelancerem z Polski. Buduję **boty na Discord i Telegram**, **panele webowe** oraz **automatyzacje**, które realnie odciążają pracę zespołów i społeczności. 
+
+Pracuję end-to-end: od briefu, przez integracje API, po stabilne wdrożenie. Tworzę narzędzia, które ułatwiają moderację, automatyzują sprzedaż (panele, licencje, integracje płatności) i wspierają adminów. **Realizuję zarówno duże, dedykowane systemy, jak i mniejsze zwinne projekty oraz skrypty.** Niezależnie od skali, skupiam się na rozwiązaniach, które mają działać i odciążyć z codziennej rutyny – a nie tylko „być ładne”.
+
+📍 **Działalność:** Polska
+🌐 **Portfolio i pełna oferta:** [buti.dev](https://buti.dev)
+💬 **Motto:** Od pomysłu do działającego systemu.
 
 ---
 

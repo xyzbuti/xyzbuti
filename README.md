@@ -55,6 +55,12 @@ motto:          "Buduję rzeczy, które działają."
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xyzbuti&style=for-the-badge&color=8B5CF6" alt="profile views"/>
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 
 <picture>

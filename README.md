@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=220&section=header&text=buti.&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=developer%20bot%C3%B3w%20%26%20narz%C4%99dzi%20webowych&descAlignY=58&descAlign=50">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=220&section=header&text=buti.&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=developer%20bot%C3%B3w%20%26%20narz%C4%99dzi%20webowych&descAlignY=58&descAlign=50">
-</picture>
-
 ### 👨‍💻 O mnie
 
 ```yaml
